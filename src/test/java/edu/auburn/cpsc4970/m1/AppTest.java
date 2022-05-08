@@ -1,4 +1,4 @@
-package edu.auburn.cpsc4970;
+package edu.auburn.cpsc4970.m1;
 
 import static org.junit.Assert.assertTrue;
 
