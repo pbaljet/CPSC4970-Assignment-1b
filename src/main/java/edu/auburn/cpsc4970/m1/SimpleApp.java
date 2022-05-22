@@ -4,7 +4,7 @@ package edu.auburn.cpsc4970.m1;
  * Hello world!
  *
  */
-public class App 
+public class SimpleApp
 {
     public static void main( String[] args )
     {

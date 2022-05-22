@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-    <exec.mainClass>edu.auburn.cpsc4970.m1.App</exec.mainClass>
+    <exec.mainClass>edu.auburn.cpsc4970.m1.SimpleApp</exec.mainClass>
   </properties>
 
   <dependencies>

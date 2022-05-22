@@ -11,11 +11,11 @@ import org.junit.Test;
  */
 public class AppTest
 {
-    private App anApp;
+    private SimpleApp anApp;
 
     @Before
     public void setUp() {
-        anApp = new App();
+        anApp = new SimpleApp();
     }
     /**
      * Rigorous Test
