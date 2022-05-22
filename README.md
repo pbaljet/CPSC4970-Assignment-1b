@@ -50,6 +50,10 @@ Do the follow:
     ```
    Examine **target** directory and examine it's contents.  You will notice additional directories related to running automated tests.
 
+8. Run the main class:
+   ```
+   mvn exec:java
+   ```
 
 9. Run Maven clean:
     ```
@@ -80,16 +84,23 @@ Do the follow:
 
 9. Create and checkout a branch called "feature-add"
 
-10. Change the artifact id (assign1-1b) in the pom.xml 
+
+10. Change the artifact id (assign1-1b) in the pom.xml. Run mvn package and notice artifact name change in target directory.
+
 
 11. Add a method to the App class that adds two integers
 
+
 12. Add an addition junit test to the test class that tests the method.
+
 
 13. Build and validate your code works.
 
+
 14. Push the branch to the remote repository.
 
+
 15. Create and process merge request to **main** on Gitlab
+
 
 Grade will be based on review of commit history and branch on Gitlab

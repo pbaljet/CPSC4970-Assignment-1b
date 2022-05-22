@@ -26,7 +26,7 @@ public class SimpleAppTest
         assertTrue( true );
     }
     /**
-     * Addition test goes here.
+     * Addition test goes here.  Only one test needed
      */
     @Test
     public void addNumbers(){
